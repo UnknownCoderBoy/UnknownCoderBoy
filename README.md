@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone 👋
 
 This secondary GitHub account belongs to the Omkar Kanade, Swarup Kanade and serves as a separate space for various purposes. 
 
