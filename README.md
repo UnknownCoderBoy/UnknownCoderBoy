@@ -2,9 +2,6 @@
 
 This secondary GitHub account belongs to the @SwarupKanade, @OmkarKande and serves as a separate space for various purposes. 
 
-
-**UnknownCoderBoy/UnknownCoderBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🔭 Currently Working On:
 I am currently working on various projects and experiments to explore new ideas and technologies. This secondary account allows me to separate these endeavors from my main GitHub account.
 
