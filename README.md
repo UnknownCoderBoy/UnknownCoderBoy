@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This secondary GitHub account belongs to the @SwarupKanade, @OmkarKande and serves as a separate space for various purposes. 
+This secondary GitHub account belongs to the [@OmkarKanade](https://github.com/OmkarKanade), [@SwarupKanade](https://github.com/SwarupKanade) and serves as a separate space for various purposes. 
 
 🔭 Currently Working On:
 I am currently working on various projects and experiments to explore new ideas and technologies. This secondary account allows me to separate these endeavors from my main GitHub account.
