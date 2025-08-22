@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-This secondary GitHub account belongs to the Omkar Kanade, Swarup Kanade and serves as a separate space for various purposes. 
+This account is jointly managed by Omkar Kanade and Swarup Kanade, created as a dedicated space for experiments, projects, and other purposes.
 
 🔭 Currently Working On:
 We are currently working on various projects and experiments to explore new ideas and technologies. This secondary account allows us to separate these endeavors from my main GitHub account.
